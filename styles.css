@@ -1,0 +1,86 @@
+
+
+
+body{
+  border: 3px;
+  margin: 10px;
+  background-color: #dcc7aa
+}
+
+main{
+  border: 2px dotted black;
+  margin: 20px;
+  padding: 20px;
+
+
+}
+
+article{
+  border: 2px dotted black;
+  margin: 20px;
+  padding: 20px;
+}
+
+footer{
+  border: 2px dotted black;
+  margin: 20px;
+  padding: 20px; 
+}
+.banner{
+  background-image: url( "images/photos-houses-cover.jpg");
+  background-size: cover
+  
+}
+
+h1{
+  font-family: Palatino, 'Times New Roman', Times, serif
+}
+
+.title_banner {
+  position: relative;
+  top: 50px;
+  padding: 40px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  
+  color:#687A8F;
+  text-align: center;
+  
+}
+
+#nav-banner ul {
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+  
+}
+#nav-banner ul li {
+  display: inline-block;
+  width: 20%;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  
+  background-color: #f7c331;
+
+}
+
+#get-Qoute{
+  color: blue;
+  font-weight: bolder;
+}
+
+p{
+  color: #362916;
+  padding: 6px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  text-align: justify;
+}
+
+ul{
+
+}
+
+
+
+}
